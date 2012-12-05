@@ -6,6 +6,7 @@
  <pattern>
   <pattern_name>JazzRockFast</pattern_name>
   <category>Jazz+Funk</category>
+  <info>A fast jazz-rock pattern.</info>
   <size>192</size>
   <noteList>
    <note>

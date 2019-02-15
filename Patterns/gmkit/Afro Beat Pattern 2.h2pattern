@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <drumkit_pattern>
  <pattern_for_drumkit>GMkit</pattern_for_drumkit>
- <author>Unknown</author>
- <license>Unknown license</license>
+ <author>Fabrice Salvaire &lt;https://fabrice-salvaire.fr</author>
+ <license>>LAL-1.3/GPL-2</license>
  <pattern>
   <pattern_name>Afro Beat Pattern 2</pattern_name>
   <info></info>
